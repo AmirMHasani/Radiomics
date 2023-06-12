@@ -1,0 +1,11 @@
+Output file is empty and will start writing first patient data
+----> Patient: 11111
+----> left lung path: CT_scans/data/11111_Left_lung/
+----> right lung path: CT_scans/data/11111_Right_lung/
+----> Patient: 4186540
+----> left lung path: CT_scans/data/4186540_L/
+----> right lung path: CT_scans/data/4186540_R/
+
+real	13m35.813s
+user	13m33.911s
+sys	0m18.355s
